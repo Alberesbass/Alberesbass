@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Para mais sobre mim entre em contato nas redes abaixo!!
+  ### Para mais sobre mim entre em contato nas redes abaixo!
  
 <div> 
   <a href="https://www.linkedin.com/in/alberesnascimento" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank"></a>
