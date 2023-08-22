@@ -1,5 +1,8 @@
 ## Bem-vindo(a) ao perfil do Alberes Pereira 😁
 
+![image](https://github.com/Alberesbass/Alberesbass/assets/112522708/996d6db3-f263-4d4a-927a-8b0626396091)
+
+
  <div>
    <a href="https://github.com/Alberesbass">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alberesbass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
