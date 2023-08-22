@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Alberes Pereira 😁
 
-![image](https://github.com/Alberesbass/Alberesbass/assets/112522708/996d6db3-f263-4d4a-927a-8b0626396091)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Alberesbass=Adilio848)](https://github.com/anuraghazra/github-readme-stats)
 
 
  <div>
