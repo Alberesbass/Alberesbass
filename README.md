@@ -1,8 +1,5 @@
 ## Bem-vindo(a) ao perfil do Alberes Pereira 😁
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Alberesbass=Adilio848)](https://github.com/Alberesbass/github-readme-stats)
-
-
  <div>
    <a href="https://github.com/Alberesbass">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alberesbass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
