@@ -24,6 +24,7 @@
   <a href ="mailto:alberesbass@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
   ![Snake animation](https://github.com/Alberesbass/Alberesbass/blob/output/github-contribution-grid-snake.svg)
+  ![snake animation](https://github.com/<Alberesbass>/<Alberesbass>/blob/output/github-contribution-grid-snake2.svg)
 
 </div>
 
