@@ -25,6 +25,7 @@
 
   
   ![Snake animation](https://github.com/Alberesbass/Alberesbass/blob/output/github-contribution-grid-snake.svg)
+  ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
 </div>
 
