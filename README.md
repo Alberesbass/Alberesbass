@@ -23,7 +23,7 @@
   <a href="https://www.instagram.com/alberesbass" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href ="mailto:alberesbass@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
-  ![snake gif](https://github.com/Alberesbass/Alberesbass/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Alberesbass/Alberesbass/blob/output/github-contribution-grid-snake-dark.svg)
   <!-- ![Snake animation](https://github.com/Alberesbass/Alberesbass/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
