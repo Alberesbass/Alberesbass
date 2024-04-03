@@ -6,7 +6,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberesbass&layout=compact&langs_count=6&theme=tokyonight"/>
 
 
-  ### Para mais sobre mim entre em contato nas redes abaixo!
+  ### 🚀Skills:
  🚀Skill:
 
 </div>
