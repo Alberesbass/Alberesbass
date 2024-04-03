@@ -5,7 +5,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alberesbass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberesbass&layout=compact&langs_count=6&theme=tokyonight"/>
 
-<h1>Skills:</h1>
+#Skills:
 
 </div>
 <div style="display: inline_block"><br>
